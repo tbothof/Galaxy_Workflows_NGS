@@ -12,7 +12,7 @@ _A visualization of a simle quality control and trimming_
 
 ## Workflow 2: Unicycler hybrid assembly + Antibiotic resistance detection
 
-In this workflow, we use Unicycler to create a hybrid assembly, to be checked with some other tools for completeness as well as antibiotic resistance genes.
+In [this workflow](./Galaxy-Workflow-Unicycler_Hybrid_Assembly___Antibiotic_Resistance_Detection.ga), we use Unicycler to create a hybrid assembly, to be checked with some other tools for completeness as well as antibiotic resistance genes.
 
 ![image](https://github.com/tbothof/Galaxy_Workflows_NGS/assets/163141499/ddd24051-def7-45c5-9b0b-dbeea0f7bed9)
 
