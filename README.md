@@ -4,7 +4,7 @@ This repository contains Galaxy workflows created during NGS Analysis classes.
 
 ## Workflow 1: Introduction to Galaxy
 
-This is the first workflow.
+This is the [first workflow](Galaxy-Workflow-Introduction_Workflow.ga).
 
 ![image](https://github.com/tbothof/Galaxy_Workflows_NGS/assets/163141499/938e4cb9-0e99-4505-9482-ad348169f3b7)
 
